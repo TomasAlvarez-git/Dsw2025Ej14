@@ -2,6 +2,9 @@
 ## Desarrollo de Software
 ### API Web
 
+Alumnos participantes:
+Alvarez Paez Tomas Agustin 58402 3k1
+Angel Ricardo Matteo Gil Fadda 58051 3k1
 ## Tareas
 Bifurcar (fork) el repositorio.
 
